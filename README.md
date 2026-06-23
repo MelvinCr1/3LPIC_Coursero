@@ -19,10 +19,10 @@
 Plateforme web permettant aux étudiants de déposer, suivre et évaluer automatiquement des exercices de programmation.
 
 **Objectifs principaux :**
-* 🚀 **Interface Étudiant :** Connexion sécurisée et tableau de bord personnel.
-* 📂 **Gestion de fichiers :** Dépôt centralisé de scripts (Python, C).
-* 🗂️ **Archivage :** Stockage structuré des soumissions.
-* ⚙️ **Automation :** Base technique pour l'intégration de tests unitaires et corrections automatiques.
+* **Interface Étudiant :** Connexion sécurisée et tableau de bord personnel.
+* **Gestion de fichiers :** Dépôt centralisé de scripts (Python, C).
+* **Archivage :** Stockage structuré des soumissions.
+* **Automation :** Base technique pour l'intégration de tests unitaires et corrections automatiques.
 
 ---
 
